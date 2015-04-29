@@ -1,6 +1,6 @@
 'use strict';
 
-var API_KEY = '<YOUR API KEY>';
+var API_KEY = 'AIzaSyDkrnEGPQbhtUPl_Hq4EOdQLbvbhXCumz0';
 
 var curlCommandDiv = document.querySelector('.js-curl-command');
 var isPushEnabled = false;
